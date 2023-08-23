@@ -1,0 +1,16 @@
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\bin\Debug\PharmacyManagmentSystem.exe.config
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\bin\Debug\PharmacyManagmentSystem.exe
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\bin\Debug\PharmacyManagmentSystem.pdb
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.csproj.AssemblyReference.cache
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.csproj.SuggestedBindingRedirects.cache
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.frmMain.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.Properties.Resources.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.csproj.GenerateResource.cache
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.csproj.CoreCompileInputs.cache
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.exe
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.pdb
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.Form1.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.frmMedicineTypeEntry.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.Medicine_Entry.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.frmMedicineUpdateDelete.resources
+D:\C#_.NET\M_05_ADO\Project\PharmacyManagmentSystem_Project\PharmacyManagmentSystem\obj\Debug\PharmacyManagmentSystem.frmMedicineView.resources
